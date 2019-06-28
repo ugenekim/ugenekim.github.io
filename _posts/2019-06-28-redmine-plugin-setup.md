@@ -50,3 +50,8 @@ $ rm -rf ${REDMINE_ROOT}/plugins/plugin_name
 ```
   
 3. **Redmine 재시작**
+  
+  
+  
+---
+참고: https://redmine.org/projects/redmine/wiki/Plugins#Installing-a-plugin
