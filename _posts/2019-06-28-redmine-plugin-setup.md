@@ -27,7 +27,7 @@ $ bundle install
 
 3. Redmine 데이터베이스 업데이트(필요할 경우에만)  
 : 해당 작업을 하기 전에 디비백업을 받을 것!  
-: ${REDMINE_ROOT} 에서 작업  
+: ${REDMINE_ROOT} 에서 작업
 ```bash
 $ bundle exec rake redmine:plugins:migrate NAME=plugin_name RAILS_ENV=production
 ```
