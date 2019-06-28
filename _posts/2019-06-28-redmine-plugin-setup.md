@@ -54,4 +54,4 @@ $ rm -rf ${REDMINE_ROOT}/plugins/plugin_name
   
   
 ---
-참고: 레드마인 플러그인(https://redmine.org/projects/redmine/wiki/Plugins#Installing-a-plugin)
+참고: <https://redmine.org/projects/redmine/wiki/Plugins#Installing-a-plugin>
