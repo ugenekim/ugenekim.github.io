@@ -6,6 +6,7 @@ categories: [redmine]
 tags: [redmine, plugin]
 ---
 
+---
 ### Plugin 설치
 1. **${REDMINE_ROOT}/plugins 디렉토리에 Plugin 복사**
 ```bash
@@ -35,6 +36,8 @@ $ bundle exec rake redmine:plugins:migrate NAME=plugin_name RAILS_ENV=production
 4. **Redmine 재시작**  
 : 설치된 Plugin은 'Administration -> Plugins' 에서 확인 가능
   
+  
+---
 ### Plugin 삭제
 1. **Redmine 데이터베이스 업데이트(Downgrade)**
 ```bash
